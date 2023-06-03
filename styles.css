@@ -128,3 +128,32 @@ h2{
     border: 10px solid #1f2937;
     border-radius: 20%;
 }
+
+/* third section */
+
+.thirdSection{
+    display: flex;
+    flex-direction: column;
+    padding: 150px;
+    background-color: #e5e7eb;
+}
+
+.thirdSection p1{
+    display: flex;
+    font-size: 34px;
+    color: #57616f;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: lighter;
+}
+
+.thirdSection p2{
+    display: flex;
+    justify-content: end;
+    text-align: end;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-right: 125px;
+}
