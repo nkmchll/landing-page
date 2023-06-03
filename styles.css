@@ -199,5 +199,14 @@ h3{
     border-radius: 15px;
     font-size: 20px;
     padding: 15px;
-    
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #8e9aaa;
+    padding: 15px;
+    font-size: 18px;
+
 }
