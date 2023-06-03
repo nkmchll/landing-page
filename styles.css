@@ -157,3 +157,47 @@ h2{
     margin-top: 25px;
     margin-right: 125px;
 }
+
+/* fourth section */
+
+.fourthSection{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 30px;
+    background-color: #3882F6;
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
+    padding: 40px;
+    gap: 200px;
+
+}
+
+.fourthSection .left{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+h3{
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.fourthSection .right{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.fourthSection button{
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    width: 120px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 15px;
+    
+}
